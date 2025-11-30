@@ -11,7 +11,8 @@ Welcome to my portfolio! This repository hosts my data analytics projects, where
 
 This dashboard provides a high-level overview of revenue and unit sales across different beverage brands (Coca-Cola, Sprite, etc.) and US regions.
 
-![Beverage Dashboard](./<img width="601" height="344" alt="image" src="https://github.com/user-attachments/assets/3deacca4-11b8-4576-bdcb-06dff90ce611" />)
+Beverage Dashboard
+<img width="601" height="344" alt="image" src="https://github.com/user-attachments/assets/3deacca4-11b8-4576-bdcb-06dff90ce611" />)
 
 * **Business Problem:** Track revenue performance and identify seasonal trends in unit sales.
 * **Key Insights:**
@@ -25,7 +26,8 @@ This dashboard provides a high-level overview of revenue and unit sales across d
 
 An in-depth analysis of shipment volumes and financial variance for a confectionery company.
 
-![Chocolate Dashboard](./<img width="494" height="295" alt="image" src="https://github.com/user-attachments/assets/e16a128b-11c1-42c4-b267-8c387e726ab3" />)
+Chocolate Dashboard
+<img width="494" height="295" alt="image" src="https://github.com/user-attachments/assets/e16a128b-11c1-42c4-b267-8c387e726ab3" />)
 
 * **Business Problem:** Analyze monthly shipment dips and financial variances to understand profit drivers.
 * **Key Features:**
@@ -42,7 +44,8 @@ An in-depth analysis of shipment volumes and financial variance for a confection
 
 A classic retail analysis focusing on Profit and Sales distribution across various product categories (Furniture, Office Supplies, Technology).
 
-![Tableau Dashboard](./<img width="451" height="317" alt="image" src="https://github.com/user-attachments/assets/b1142d13-562d-411a-84c8-56c51ab49a63" />
+Tableau Dashboard
+<img width="451" height="317" alt="image" src="https://github.com/user-attachments/assets/b1142d13-562d-411a-84c8-56c51ab49a63" />
 <img width="450" height="359" alt="image" src="https://github.com/user-attachments/assets/1c68404e-9dd1-4672-9903-cd536f66f808" />
 <img width="617" height="407" alt="image" src="https://github.com/user-attachments/assets/1556f2c6-9710-4458-a99a-084d58519207" />)
 
