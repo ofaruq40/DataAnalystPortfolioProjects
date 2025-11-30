@@ -7,4 +7,8 @@ This repository contains my Data Analytics portfolio projects ranging from Power
 <img width="617" height="407" alt="image" src="https://github.com/user-attachments/assets/1556f2c6-9710-4458-a99a-084d58519207" />
 
 Find my PowerBi work [Here](./Sales.pbix) is the Sales PowerBI project, and [Here](./Power%20bi%202.pbix) is the second PowerBI project.
+<img width="601" height="344" alt="image" src="https://github.com/user-attachments/assets/3deacca4-11b8-4576-bdcb-06dff90ce611" />
+<img width="494" height="295" alt="image" src="https://github.com/user-attachments/assets/e16a128b-11c1-42c4-b267-8c387e726ab3" />
+
+
 
